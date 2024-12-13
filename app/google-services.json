@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101878043267",
+    "project_id": "notehub-b81a5",
+    "storage_bucket": "notehub-b81a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101878043267:android:eebeda4aaaa3edde3741b6",
+        "android_client_info": {
+          "package_name": "com.example.notehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEX3D_0wu_9Q5KcsXhLmY7IWS4MfIof3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
